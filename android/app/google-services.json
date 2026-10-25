@@ -1,0 +1,332 @@
+{
+  "project_info": {
+    "project_number": "846586333589",
+    "firebase_url": "https://drone-academy-13a5f-default-rtdb.firebaseio.com",
+    "project_id": "drone-academy-13a5f",
+    "storage_bucket": "drone-academy-13a5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846586333589:android:95f61e3d6b75cad2154e9c",
+        "android_client_info": {
+          "package_name": "com.alitqan.shamicash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846586333589-mvo0gpp07jieujr9dpicnopjqnpbrs3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alitqan.shamicash",
+            "certificate_hash": "a384e1cf4aa44abccc3f6639150e3f24256e2519"
+          }
+        },
+        {
+          "client_id": "846586333589-43ociltgmghh6pe3v9v2do9kh1a2cbt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8qPlhyuhjeZNTmYQCiVjIaFvfl8KWnXo"
+        },
+        {
+          "current_key": "AIzaSyCLSJYNZmpC2_KDUJoArGjC4U1YccMAfq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846586333589-43ociltgmghh6pe3v9v2do9kh1a2cbt3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846586333589-uh5e5d4e2chemqfq3v8npdclnmvm4m9p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shaminet.fieldMapTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846586333589:android:49e6105482393c6a154e9c",
+        "android_client_info": {
+          "package_name": "com.drone.academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846586333589-5lm5s9g99vtj3oc8pub5gt3i1850clop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.drone.academy",
+            "certificate_hash": "a384e1cf4aa44abccc3f6639150e3f24256e2519"
+          }
+        },
+        {
+          "client_id": "846586333589-etnrk19vobl79olvo8tgq971qcro00uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.drone.academy",
+            "certificate_hash": "abc6ae2d111d76b2cd6d493f12d4c4d9e37fc1f1"
+          }
+        },
+        {
+          "client_id": "846586333589-43ociltgmghh6pe3v9v2do9kh1a2cbt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8qPlhyuhjeZNTmYQCiVjIaFvfl8KWnXo"
+        },
+        {
+          "current_key": "AIzaSyCLSJYNZmpC2_KDUJoArGjC4U1YccMAfq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846586333589-43ociltgmghh6pe3v9v2do9kh1a2cbt3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846586333589-uh5e5d4e2chemqfq3v8npdclnmvm4m9p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shaminet.fieldMapTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846586333589:android:d48394c1ec86132f154e9c",
+        "android_client_info": {
+          "package_name": "com.s313.bomandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846586333589-8evi1pfdme5ibcnbfruda5g4rcm7h5jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.s313.bomandroid",
+            "certificate_hash": "a384e1cf4aa44abccc3f6639150e3f24256e2519"
+          }
+        },
+        {
+          "client_id": "846586333589-43ociltgmghh6pe3v9v2do9kh1a2cbt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8qPlhyuhjeZNTmYQCiVjIaFvfl8KWnXo"
+        },
+        {
+          "current_key": "AIzaSyCLSJYNZmpC2_KDUJoArGjC4U1YccMAfq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846586333589-43ociltgmghh6pe3v9v2do9kh1a2cbt3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846586333589-uh5e5d4e2chemqfq3v8npdclnmvm4m9p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shaminet.fieldMapTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846586333589:android:eac0c79878e34723154e9c",
+        "android_client_info": {
+          "package_name": "com.shami.arrpa7y"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846586333589-9ndoghl6nee1dvn36d47vpe3nfgg4ah6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shami.arrpa7y",
+            "certificate_hash": "a384e1cf4aa44abccc3f6639150e3f24256e2519"
+          }
+        },
+        {
+          "client_id": "846586333589-43ociltgmghh6pe3v9v2do9kh1a2cbt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8qPlhyuhjeZNTmYQCiVjIaFvfl8KWnXo"
+        },
+        {
+          "current_key": "AIzaSyCLSJYNZmpC2_KDUJoArGjC4U1YccMAfq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846586333589-43ociltgmghh6pe3v9v2do9kh1a2cbt3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846586333589-uh5e5d4e2chemqfq3v8npdclnmvm4m9p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shaminet.fieldMapTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846586333589:android:081bb1c423b332de154e9c",
+        "android_client_info": {
+          "package_name": "com.shami.arrpa7y2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846586333589-43ociltgmghh6pe3v9v2do9kh1a2cbt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8qPlhyuhjeZNTmYQCiVjIaFvfl8KWnXo"
+        },
+        {
+          "current_key": "AIzaSyCLSJYNZmpC2_KDUJoArGjC4U1YccMAfq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846586333589-43ociltgmghh6pe3v9v2do9kh1a2cbt3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846586333589-uh5e5d4e2chemqfq3v8npdclnmvm4m9p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shaminet.fieldMapTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846586333589:android:95ea4eeecdaf1e8f154e9c",
+        "android_client_info": {
+          "package_name": "com.shaminet.attendance_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846586333589-43ociltgmghh6pe3v9v2do9kh1a2cbt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8qPlhyuhjeZNTmYQCiVjIaFvfl8KWnXo"
+        },
+        {
+          "current_key": "AIzaSyCLSJYNZmpC2_KDUJoArGjC4U1YccMAfq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846586333589-43ociltgmghh6pe3v9v2do9kh1a2cbt3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846586333589-uh5e5d4e2chemqfq3v8npdclnmvm4m9p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shaminet.fieldMapTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846586333589:android:910d33140dfe609a154e9c",
+        "android_client_info": {
+          "package_name": "com.shaminet.field_map_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846586333589-36pnb6ltuim9mr3e0nsjkukvhsobt39j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shaminet.field_map_tracker",
+            "certificate_hash": "a384e1cf4aa44abccc3f6639150e3f24256e2519"
+          }
+        },
+        {
+          "client_id": "846586333589-43ociltgmghh6pe3v9v2do9kh1a2cbt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8qPlhyuhjeZNTmYQCiVjIaFvfl8KWnXo"
+        },
+        {
+          "current_key": "AIzaSyCLSJYNZmpC2_KDUJoArGjC4U1YccMAfq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846586333589-43ociltgmghh6pe3v9v2do9kh1a2cbt3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846586333589-uh5e5d4e2chemqfq3v8npdclnmvm4m9p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shaminet.fieldMapTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
